@@ -8,7 +8,7 @@ const MarketBanner = () => {
       <div className="tf-tsparticles">
         <div id="tsparticles1" data-color="#161616" data-line="#000" />
       </div>
-      <h2>Discover, Mint and sell your <Property></Property></h2>
+      <h2>Discover, Mint and sell your Property</h2>
       <div className="flat-button flex">
         <a
           target="_blank"

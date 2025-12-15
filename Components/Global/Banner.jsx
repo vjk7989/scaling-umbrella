@@ -8,7 +8,7 @@ const MarketBanner = () => {
       <div className="tf-tsparticles">
         <div id="tsparticles1" data-color="#161616" data-line="#000" />
       </div>
-      <h2>Discover, create and sell your own NFT</h2>
+      <h2>Discover, Mint and sell your <Property></Property></h2>
       <div className="flat-button flex">
         <a
           target="_blank"
@@ -19,7 +19,7 @@ const MarketBanner = () => {
           <FaExternalLinkAlt />
         </a>
         <a href="#" className="tf-button style-2 h50 w230">
-          Create your first NFT
+          Create your first Digital Assest
           <FaExternalLinkAlt />
         </a>
       </div>

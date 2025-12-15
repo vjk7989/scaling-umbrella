@@ -174,7 +174,7 @@ const Header = ({ nfts }) => {
                       <a href={link ? "#home" : "/"}>Home</a>
                     </li>
                     <li className="menu-item">
-                      <a href={link ? "#top" : "/"}>Top NFTs</a>
+                      <a href={link ? "#top" : "/"}>Top Properties</a>
                     </li>
                     <li className="menu-item ">
                       <a href={link ? "#about" : "/"}>About</a>
@@ -287,13 +287,13 @@ const Header = ({ nfts }) => {
               <ul>
                 <li>
                   <div className="cate-item">
-                    <a>NFT Sale</a>
+                    <a>Property Sale</a>
                   </div>
                   <div className="number">({nfts})</div>
                 </li>
                 <li>
                   <div className="cate-item">
-                    <a>Created NFT</a>
+                    <a>Listed by you</a>
                   </div>
                   <div className="number">({createdNFTs?.length})</div>
                 </li>
@@ -458,7 +458,7 @@ const Header = ({ nfts }) => {
               <ul>
                 <li>
                   <div className="cate-item">
-                    <a>NFTs Sale</a>
+                    <a>Properties Sale</a>
                   </div>
                   <div className="number">({nfts})</div>
                 </li>

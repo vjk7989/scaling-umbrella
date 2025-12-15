@@ -25,7 +25,7 @@ const Discover = ({ nfts, publicKey, setBuy }) => {
             <div className="heading-section pb-30">
               <h2 className="tf-title ">Discover item</h2>
               <a
-                href="https://www.theblockchaincoders.com/pro-nft-marketplace"
+                href="http://buckleson.com/"
                 target="_blank"
                 className=""
               >
@@ -59,7 +59,7 @@ const Discover = ({ nfts, publicKey, setBuy }) => {
                       href={`/nft-details?mint=${item?.nft.mint}`}
                       class="tf-button"
                     >
-                      <span>View NFT</span>
+                      <span>View Property</span>
                     </a>
                   </div>
                 </div>
@@ -106,7 +106,7 @@ const Discover = ({ nfts, publicKey, setBuy }) => {
                       data-toggle="modal"
                       data-target={`#buyNft`}
                     >
-                      Buy NFT
+                      Buy Property
                     </a>
                   )}
                 </div>

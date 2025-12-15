@@ -82,7 +82,7 @@ const SideBar = ({
             <li className="tablinks" data-tabs="favorite">
               <SideBar_9 />
               <SideBar_10 />
-              Created NFTs
+              Minted Properties
             </li>
             <li
               onClick={() => setHistoryAPI(true)}
@@ -129,8 +129,8 @@ const SideBar = ({
         </div>
       </div>
       <div className="bottom">
-        <p>© 2023 Made By</p>
-        <p>@theblockchaincoders</p>
+        <p>© 2025 Made By</p>
+        <p>@Buckleson-Group</p>
       </div>
     </div>
   );

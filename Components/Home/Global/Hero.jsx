@@ -9,11 +9,11 @@ const Hero = ({ publicKey }) => {
           <div className="col-md-6">
             <div className="content">
               <h1 data-wow-delay="0s" className="wow fadeInUp">
-                Solana <br /> NFTs Marketplace Create, Sale, Buy
+                Solana <br /> Disgital Assests List, Sale, Buy
               </h1>
               <p data-wow-delay="0.1s" className="wow fadeInUp">
-                Buy and sell NFTs from the world’s top artists. More than 1.000
-                premium digital artworks are available to be yours!
+                Buy and sell Assest from the world’s top Builders. More than 1.000
+                premium digital properties are available to be yours!
               </p>
               <div
                 data-wow-delay="0.2s"
@@ -57,7 +57,7 @@ const Hero = ({ publicKey }) => {
                           <CiHeart />
                         </span>
                         <div className="featured-countdown">
-                          <span className="js-countdown">Solana NFT</span>
+                          <span className="js-countdown">Solana Network</span>
                         </div>
                         <div className="button-place-bid">
                           <a
@@ -80,7 +80,7 @@ const Hero = ({ publicKey }) => {
                         <div className="info">
                           <span>Posted by:</span>
                           <h6>
-                            <a href="author-2.html">Cody Fisher</a>{" "}
+                            <a href="author-2.html">Venkatesh </a>{" "}
                           </h6>
                         </div>
                       </div>

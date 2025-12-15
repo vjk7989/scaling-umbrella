@@ -33,10 +33,10 @@ const Footer = () => {
                 </div>
               </div>
               <div className="widget widget-menu style-1">
-                <h5 className="title-widget">Marketplace</h5>
+                <h5 className="title-widget">Listings</h5>
                 <ul>
                   <li>
-                    <a href="#">All NFTs</a>
+                    <a href="#">All Properties</a>
                   </li>
                   <li>
                     <a href="#">Virtual worlds</a>

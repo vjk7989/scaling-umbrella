@@ -40,9 +40,9 @@ const Market = ({
                       <InLoader />
                     ) : (
                       <div className="content">
-                        <h1>No NFTs Found</h1>
+                        <h1>No Properties Found</h1>
                         <p>
-                          We’re sorry on nft is avalible for sale in the
+                          We’re sorry on properties is avalible for sale in the
                           marketplace, be the first to create one
                         </p>
                       </div>

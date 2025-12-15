@@ -102,7 +102,7 @@ const Dashboard = ({
             <Filter />
             <ul className="widget-menu-tab">
               <li className="item-title">
-                <span className="inner">Own NFTs</span>
+                <span className="inner">Own Properties</span>
               </li>
               <li className="item-title active">
                 <span className="inner">Transfer</span>
@@ -126,9 +126,9 @@ const Dashboard = ({
                       <InLoader />
                     ) : (
                       <div className="content">
-                        <h1>No NFTs Found</h1>
+                        <h1>No Properties Found</h1>
                         <p>
-                          We’re sorry on nft is found in the marketplace, be the
+                          We’re sorry on Properties is found in the marketplace, be the
                           first to create one
                         </p>
                       </div>
@@ -149,9 +149,9 @@ const Dashboard = ({
                       <InLoader />
                     ) : (
                       <div className="content">
-                        <h1>No NFTs Found</h1>
+                        <h1>No Properties Found</h1>
                         <p>
-                          We’re sorry on nft is found in the marketplace, be the
+                          We’re sorry on Properties is found in the marketplace, be the
                           first to create one
                         </p>
                       </div>
@@ -179,9 +179,9 @@ const Dashboard = ({
                       <InLoader />
                     ) : (
                       <div className="content">
-                        <h1>No NFTs Found</h1>
+                        <h1>No Properties Found</h1>
                         <p>
-                          We’re sorry on nft is found in the marketplace, be the
+                          We’re sorry on Properties is found in the marketplace, be the
                           first to create one
                         </p>
                       </div>
@@ -209,9 +209,9 @@ const Dashboard = ({
                       <InLoader />
                     ) : (
                       <div className="content">
-                        <h1>No NFTs Found</h1>
+                        <h1>No Properties Found</h1>
                         <p>
-                          We’re sorry on nft is found in the marketplace, be the
+                          We’re sorry on properties is found in the marketplace, be the
                           first to create one
                         </p>
                       </div>
@@ -238,9 +238,9 @@ const Dashboard = ({
                       <InLoader />
                     ) : (
                       <div className="content">
-                        <h1>No NFTs Found</h1>
+                        <h1>No Properties Found</h1>
                         <p>
-                          We’re sorry on nft is found in the marketplace, be the
+                          We’re sorry on properties is found in the marketplace, be the
                           first to create one
                         </p>
                       </div>

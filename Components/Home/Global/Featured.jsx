@@ -29,7 +29,7 @@ const Featured = ({ nfts, publicKey }) => {
         <div className="row">
           <div className="col-md-12">
             <div className="heading-section pb-20">
-              <h2 className="tf-title ">Recent Created</h2>
+              <h2 className="tf-title ">Recent Listed</h2>
             </div>
           </div>
           <div className="col-md-12">

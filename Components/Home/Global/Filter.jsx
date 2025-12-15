@@ -15,7 +15,7 @@ const Filter = () => {
           <div className="dropdown">
             <button className="btn btn-secondary dropdown-toggle">
               <Filter_2 />
-              <span className="inner">Items</span>
+              <span className="inner">Properties</span>
             </button>
           </div>
           <div className="dropdown">

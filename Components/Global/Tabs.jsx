@@ -7,7 +7,7 @@ const Tabs = () => {
         <span className="inner">Category</span>
       </li>
       <li className="item-title active">
-        <span className="inner">Items</span>
+        <span className="inner">Properties</span>
       </li>
       <li className="item-title">
         <span className="inner">Status</span>

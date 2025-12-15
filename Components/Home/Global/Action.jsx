@@ -9,7 +9,7 @@ const Action = ({ publicKey }) => {
         <div className="row">
           <div className="col-md-12">
             <div className="action__body">
-              <h2>Discover, create and sell your own NFT</h2>
+              <h2>Discover, Mint and sell your property</h2>
               <div className="flat-button flex">
                 <a
                   href="#"
@@ -22,7 +22,7 @@ const Action = ({ publicKey }) => {
                 </a>
                 {publicKey && (
                   <a href="/marketplace" className="tf-button style-2 h50 w230">
-                    Create your first NFT
+                    List your first peroperty
                     <FaExternalLinkAlt />
                   </a>
                 )}

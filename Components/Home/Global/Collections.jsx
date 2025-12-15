@@ -14,7 +14,7 @@ const Collections = () => {
         <div className="row">
           <div className="col-md-12">
             <div className="heading-section pb-20">
-              <h2 className="tf-title ">Top collections in week</h2>
+              <h2 className="tf-title ">Top Properties in week</h2>
             </div>
           </div>
           <div className="col-md-12">

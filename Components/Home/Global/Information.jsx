@@ -33,7 +33,7 @@ const Created = () => {
           <div className="col-md-12">
             <div className="heading-section">
               <h2 className="tf-title pb-30">
-                Step by step Create and Sell Your NFTs
+                Step by step List and Sell Your Properties
               </h2>
             </div>
           </div>

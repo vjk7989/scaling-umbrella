@@ -11,7 +11,7 @@ const Seller = () => {
         <div className="row">
           <div className="col-md-12">
             <div className="heading-section">
-              <h2 className="tf-title pb-30">Top NFTs Promotions</h2>
+              <h2 className="tf-title pb-30">Top Properties Promotions</h2>
             </div>
           </div>
 
